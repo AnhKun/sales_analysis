@@ -4,6 +4,7 @@ In this notebook, it used the sales data of 12 months in 2019 to answer these fo
 - Q1: What was the best month for sales? How much was earned that month?
 - Q2: What city had the highest number of sales?
 - Q3: What time should we display advertisements to maximize likelihood of customer's buying product?
+- Q4: What products are most often sold together?
 
 ## 2. Requirement:
 To fully complete and understand the logic in this notebook, we have to be familiar with:
